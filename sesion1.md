@@ -119,7 +119,7 @@ Otra característica importante de las funciones es que pueden devolver valores.
 Las funciones son una parte esencial de la programación ya que permiten escribir código más eficiente y fácil de mantener. Al dividir el código en funciones más pequeñas y reutilizables, se reduce la cantidad de código que se necesita escribir y se mejora la legibilidad del programa.
 
  10. ¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?
- 
+
 La programación orientada a objetos (POO) es un paradigma de programación que se basa en el uso de objetos y clases para modelar conceptos y problemas del mundo real. En la POO, un objeto es una entidad que contiene datos y métodos que actúan sobre dichos datos. Una clase es un molde o una plantilla que define las propiedades y comportamientos de un objeto.
 La POO permite a los programadores organizar su código en unidades lógicas y reutilizables, lo que puede mejorar la claridad, mantenibilidad y escalabilidad de un proyecto. Además, la POO también ofrece herramientas poderosas como la encapsulación, la herencia y el polimorfismo para manejar la complejidad y crear soluciones eficientes.
 En este tipo de programación se organiza el código en clases y, posteriormente, se crean los objetos. Una clase es una plantilla que define de manera general cómo serán los objetos de un tipo concreto. Por ejemplo, imaginemos la clase “Bicicletas”. Todas las bicicletas tienen características comunes: dos ruedas, un sillín, un manillar, dos pedales…, lo que en programación conocemos como “Atributos”.
