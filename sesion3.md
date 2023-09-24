@@ -25,7 +25,7 @@
 
 
 
- # **Solucion**
+      # **Solucion**
 
  - **Suma y multiplicación:**
   Escribe un programa que solicite al usuario dos números enteros y luego imprima la suma y multiplicación de esos números.
