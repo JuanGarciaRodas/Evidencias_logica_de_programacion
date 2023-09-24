@@ -25,7 +25,7 @@ El proceso de instalación de los entornos de desarrollo para Java, NetBeans IDE
 
 En esta actividad, pondremos en práctica los conceptos aprendidos de programación básica mediante la ejecución y prueba de diversos ejercicios. Utilizaremos el lenguaje de programación Java para implementar los programas y comprobaremos su funcionamiento ingresando diferentes valores de entrada
 
-1. **Programa para calcular la hipotenusa de un triángulo rectángulo**
+ 1. **Programa para calcular la hipotenusa de un triángulo rectángulo**
 
 
  ```java
@@ -52,7 +52,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
       } 
  ```
 
-2. **Programa para determinar si un número es par o impar:**
+ 1. **Programa para determinar si un número es par o impar:**
 
  ```java
 
@@ -74,9 +74,9 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
         scanner.close();
      }
      }
-```
+ ```
 
-3. **Programa para calcular el tercer ángulo de un triángulo:**
+ 1. **Programa para calcular el tercer ángulo de un triángulo:**
 
  ```java
 
@@ -105,7 +105,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
      }
  ```
 
- 4. **Programa para calcular el promedio de tres números:**
+ 1. **Programa para calcular el promedio de tres números:**
 
  ```java
      import java.util.Scanner;
@@ -132,7 +132,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
  ```
 
 
-5. **Programa para calcular la longitud de una cadena de texto:**
+ 1. **Programa para calcular la longitud de una cadena de texto:**
 
  ```java
 
@@ -153,7 +153,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
      }
  ```
 
-6. **Programa para calcular el área de un triángulo:**
+ 1. **Programa para calcular el área de un triángulo:**
 
  ```java
      import java.util.Scanner;
@@ -176,7 +176,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
      }
  ``` 
 
- 7. **Programa para calcular la raíz cuadrada de un número:**
+ 1. **Programa para calcular la raíz cuadrada de un número:**
 
  ```java
      import java.util.Scanner;
@@ -196,7 +196,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
      }
  ```
 
- 8. ***Programa para calcular el máximo común divisor (MCD) de dos números:**
+ 1. **Programa para calcular el máximo común divisor (MCD) de dos números:**
 
  ```java
     import java.util.Scanner;
@@ -228,7 +228,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
      }
  ```
 
-9. **Programa para imprimir una cadena de texto en orden inverso:**
+ 1. **Programa para imprimir una cadena de texto en orden inverso:**
 
  ```java
      import java.util.Scanner;
@@ -252,7 +252,7 @@ En esta actividad, pondremos en práctica los conceptos aprendidos de programaci
      }
  ```
 
-10. **Programa para calcular el área de un rectángulo:**
+ 1. **Programa para calcular el área de un rectángulo:**
 
  ```java
      import java.util.Scanner;
