@@ -176,7 +176,7 @@ Otra característica importante de las funciones es que pueden devolver valores 
 Los valores devueltos por una función pueden ser utilizados en otras partes del programa
 Las funciones son una parte esencial de la programación ya que permiten escribir código más eficiente y fácil de mantener Al dividir el código en funciones más pequeñas y reutilizables, se reduce la cantidad de código que se necesita escribir y se mejora la legibilidad del programa.
 
- ## - **¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?**
+## - **¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?**
 
 La programación orientada a objetos **(POO)** es un paradigma de programación que se basa en el uso de objetos y clases para modelar conceptos y problemas del mundo real. En la **POO**, un objeto es una entidad que contiene datos y métodos que actúan sobre dichos datos, Una clase es un molde o una plantilla que define las propiedades y comportamientos de un objeto.
 
