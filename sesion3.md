@@ -22,11 +22,7 @@
 7. *Operadores lógicos:* Escribe un programa que tome dos valores booleanos ingresados por el usuario y muestre el resultado de las operaciones lógicas AND, OR y NOT entre esos valores.
 
 8. *Operador ternario:* Escribe un programa que tome un número entero ingresado por el usuario y utilice el operador ternario para determinar si el número es positivo o negativo. Luego, muestra el resultado en la salida.
-
-
-
-      ## **Solucion**
-
+# Solucion
 
  - **Suma y multiplicación:**
   Escribe un programa que solicite al usuario dos números enteros y luego imprima la suma y multiplicación de esos números.
