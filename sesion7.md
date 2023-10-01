@@ -5,7 +5,9 @@
 
 
 <!-- Su documentación aquí -->
- # **Actividad: Ejecicios Array - ArrayList**
+
+
+# **Actividad: Ejecicios Array - ArrayList**
 
 
 ## En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.
@@ -105,44 +107,48 @@
      }
 
  ```
+ 
+ 
+## Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
 
-  ## Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
+#### **Solucion**
 
-  #### **Solucion**
+
 ## Arrays
 
-    ```java
-     package com.mycompany.arrayas;
-      java.util.Arrays;
-     /**
-     *
-      * @author Juan Carlos
-     */
-      public class Arrayas {
-      // Imprimir el arrays
+ ```java
+         package com.mycompany.arrayas;
+          java.util.Arrays;
+         /**
+         *
+          * @author Juan Carlos
+         */
+          public class Arrayas {
+         // Imprimir el arrays
      
-     public static void main(String[] args) {
-        String [] Empresas = new String [7];
+         public static void main(String[] args) {
+         String [] Empresas = new String [7];
         
-        Empresas [0] = "Coordinadora";
-        Empresas [1] = "Exito";
-        Empresas [2] = "Sura";
-        Empresas [3] = "Americanino";
-        Empresas [4] = "Diesel";
-        Empresas [5] = "Yamaha";
-        Empresas [6] = "Toyota";
+         Empresas [0] = "Coordinadora";
+         Empresas [1] = "Exito";
+         Empresas [2] = "Sura";
+         Empresas [3] = "Americanino";
+         Empresas [4] = "Diesel";
+         Empresas [5] = "Yamaha";
+         Empresas [6] = "Toyota";
         
-       for(int i=0; i<Empresas.length; i++) {
+         for(int i=0; i<Empresas.length; i++) {
                 System.out.println(Empresas [i]);
-     }
-     }
-            
-     }
+         }
+         }
+                
+         }
  ```
 
 
 
 ## Arraylist
+
 
  ```java
 
