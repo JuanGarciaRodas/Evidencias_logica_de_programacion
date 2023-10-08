@@ -36,19 +36,16 @@ La mediana es el elemento central de un grupo ordenado cuando la cantidad de ele
 - **Mediana con números pares:**
 
 
-
-
- ```java
-
-      package com.mycompany.ejerciciomediana;
+```java
+     package com.mycompany.ejerciciomediana;
 
      import java.util.Arrays;
 
      /**
-     *
+      *
      * @author Juan Carlos
-      */
-     public class EjercicioMediana {
+     */
+      public class EjercicioMediana {
 
      public static void main(String[] args) {
         int[] conjuntoDatos = {2,6,1,8,3,5};
