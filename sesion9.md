@@ -31,41 +31,37 @@ Ordenarlos de menor a mayor: {2, 3, 5, 9, 11, 12} El número de elementos es par
 
 La mediana es el elemento central de un grupo ordenado cuando la cantidad de elementos es impar. Y es el promedio de los dos elementos centrales cuando la cantidad es par.
 
-## **SOLUCION**
 
-- **Mediana con números pares:**
-
-
-```java
-     package com.mycompany.ejerciciomediana;
-
-     import java.util.Arrays;
-
-     /**
-      *
-     * @author Juan Carlos
-     */
-      public class EjercicioMediana {
-
-     public static void main(String[] args) {
-        int[] conjuntoDatos = {2,6,1,8,3,5};
-     Arrays.sort(conjuntoDatos);
-        int totalDatos = conjuntoDatos.length;
-
-        System.out.println(Arrays.toString(conjuntoDatos));
-        System.out.println("El total de datos es " + totalDatos + "si es par");
-
-        int num1 = conjuntoDatos[conjuntoDatos.length / 2];
-        int num2 = conjuntoDatos[(conjuntoDatos.length / 2) - 1];
-
-        double media = (num1 + num2) / 2;
-        System.out.println("la media es" + media);
-
-     }
-     }
-
- ```
+# **SOLUCION**
 
 
+- **La Mediana**
 
+     ```java
+         package com.mycompany.ejerciciomediana;
 
+          import java.util.Arrays;
+
+          /**
+         *
+         * @author Juan Carlos
+         */
+         public class EjercicioMediana {
+
+         public static void main(String[] args) {
+          int[] conjuntoDatos = {2, 6, 1, 8, 3, 5};
+         Arrays.sort(conjuntoDatos);
+         int totalDatos = conjuntoDatos.length;
+
+         System.out.println(Arrays.toString(conjuntoDatos));
+         System.out.println("El total de datos es " + totalDatos + "si es par");
+
+         int num1 = conjuntoDatos[conjuntoDatos.length / 2];
+          int num2 = conjuntoDatos[(conjuntoDatos.length / 2) - 1];
+
+          double media = (num1 + num2) / 2;
+          System.out.println("la media es" + media);
+
+         }
+         }
+     ```
