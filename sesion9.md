@@ -36,7 +36,9 @@ La mediana es el elemento central de un grupo ordenado cuando la cantidad de ele
 - **Mediana con números pares:**
 
 
-  ```java
+
+
+ ```java
 
       package com.mycompany.ejerciciomediana;
 
