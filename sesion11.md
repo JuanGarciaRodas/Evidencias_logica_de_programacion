@@ -60,3 +60,42 @@
 
 
  ```
+
+
+
+
+- Desarrollar un algoritmo que realice la conversión de binario a decimal.
+
+  ```java
+       package com.mycompany.binarioadecimal;
+  
+     /**
+     *
+     * @author Juan Carlos
+      */
+      public class Binarioadecimal {
+
+     public static void main(String[] args) {
+        String numeroBinario = "1010101010"; // Cambia esto al número binario que desees convertir
+        int numeroDecimal = binarioADecimal(numeroBinario);
+        System.out.println("El número binario " + numeroBinario + " es igual a " + numeroDecimal + " en decimal.");
+     }
+
+     public static int binarioADecimal(String numeroBinario) {
+        int longitud = numeroBinario.length();
+        int numeroDecimal = 0;
+
+        for (int i = 0; i < longitud; i++) {
+            char bit = numeroBinario.charAt(i);
+            int valorBit = Character.getNumericValue(bit);
+
+            // Añadimos el valor del bit a la suma acumulada
+            numeroDecimal += valorBit * Math.pow(2, longitud - 1 - i);
+        }
+
+        return numeroDecimal;
+     }
+     }
+
+
+  ```
